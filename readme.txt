@@ -1,5 +1,2 @@
 first
 second
-third
-test
-test
